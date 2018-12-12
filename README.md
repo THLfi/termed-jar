@@ -6,7 +6,7 @@ Termed JAR builds a single jar composing of Termed API and UI.
 
 ## Building
 
-First install [Termed API](https://github.com/THLfi/termed-api) and [Termed UI](https://github.com/THLfi/termed-ui) (e.g. download or clone projects and run `mvn install` on both). Then run `mvn install` on this project. This produces a war file `/termed-jar/target/termed.jar`.
+First install [Termed API](https://github.com/THLfi/termed-api) and [Termed UI](https://github.com/THLfi/termed-ui) (e.g. download or clone projects and run `mvn install` on both). Then run `mvn install` on this project. This produces a jar file `/termed-jar/target/termed.jar`.
 
 ## Running
 
