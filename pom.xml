@@ -25,7 +25,7 @@
         <dependency>
             <groupId>fi.thl</groupId>
             <artifactId>termed-api</artifactId>
-            <version>3.1-SNAPSHOT</version>
+            <version>3.1</version>
         </dependency>
         <dependency>
             <groupId>fi.thl</groupId>
